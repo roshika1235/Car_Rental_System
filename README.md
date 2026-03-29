@@ -1,4 +1,4 @@
-# 🚗 Car Rental System — Data Engineering Case Study
+# 🚗 Car Rental System —  Case Study
 
 A comprehensive data engineering project focused on cleaning, transforming, and analyzing car rental operations data across multiple business domains including reservations, payments, telematics, and customer feedback.
 
@@ -126,7 +126,7 @@ pytest testing/ -v
 
 ## 🛠️ Tech Stack
 
-- **Python 3.x**
+- **Python 3.13.12**
 - **Pandas** — data manipulation
 - **NumPy** — numerical operations
 - **Pytest** — unit testing
