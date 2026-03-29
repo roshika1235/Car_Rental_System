@@ -142,13 +142,13 @@ pytest testing/ -v
 [GitHub](https://github.com/roshika1235) | [LinkedIn](https://www.linkedin.com/in/roshika-challa-307575259-bvrit-hyderabad-college-of-engineering-for-women/)
 
 **Bathula Padmasri**
-[GitHub]((https://github.com/padmasri2005)) | [LinkedIn](https://linkedin.com/in/?)
+[GitHub]((https://github.com/padmasri2005)) | [LinkedIn](https://www.linkedin.com/in/padma-sri-bathula-329053259/)
 
 **Sanjana Gandla**
-[GitHub](https://github.com/Sanjana6653) | [LinkedIn](https://linkedin.com/in/?)
+[GitHub](https://github.com/Sanjana6653) | [LinkedIn](https://www.linkedin.com/in/sanjana-gandla-18527b259)
 
 **Siri Chandana Macha**
-[GitHub](https://github.com/siri-chandana-macha) | [LinkedIn](https://linkedin.com/in/?)
+[GitHub](https://github.com/siri-chandana-macha) |[LinkedIn] (https://www.linkedin.com/in/macha-siri-chandana-24a164259/))
 
 **Sharanya Lankela**
 [GitHub](https://github.com/?) | [LinkedIn](https://linkedin.com/in/?)
