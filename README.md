@@ -148,7 +148,7 @@ pytest testing/ -v
 [GitHub](https://github.com/Sanjana6653) | [LinkedIn](https://www.linkedin.com/in/sanjana-gandla-18527b259)
 
 **Siri Chandana Macha**
-[GitHub](https://github.com/siri-chandana-macha) |[LinkedIn] (https://www.linkedin.com/in/macha-siri-chandana-24a164259/)
+[GitHub](https://github.com/siri-chandana-macha) |[LinkedIn](https://www.linkedin.com/in/macha-siri-chandana-24a164259/)
 
 **Sharanya Lankela**
-[GitHub](https://github.com/?) | [LinkedIn](https://linkedin.com/in/?)
+[GitHub](https://github.com/?) | [LinkedIn](https://www.linkedin.com/in/lankela-sharanya-15816b259/)
