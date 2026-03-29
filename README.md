@@ -136,7 +136,19 @@ pytest testing/ -v
 
 ## 👤 Author
 
-**Roshika Challa**  
-[GitHub][def] | [LinkedIn](https://www.linkedin.com/in/roshika-challa-307575259-bvrit-hyderabad-college-of-engineering-for-women/)
+## 👥 Authors
 
-[def]: https://github.com/roshika1235/Car_Rental_System
+**Roshika Challa**
+[GitHub](https://github.com/roshika1235) | [LinkedIn](https://www.linkedin.com/in/roshika-challa-307575259-bvrit-hyderabad-college-of-engineering-for-women/)
+
+**Bathula Padmasri**
+[GitHub]((https://github.com/padmasri2005)) | [LinkedIn](https://linkedin.com/in/?)
+
+**Sanjana Gandla**
+[GitHub](https://github.com/Sanjana6653) | [LinkedIn](https://linkedin.com/in/?)
+
+**Siri Chandana Macha**
+[GitHub](https://github.com/siri-chandana-macha) | [LinkedIn](https://linkedin.com/in/?)
+
+**Sharanya Lankela**
+[GitHub](https://github.com/?) | [LinkedIn](https://linkedin.com/in/?)
