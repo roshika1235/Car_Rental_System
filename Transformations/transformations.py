@@ -71,9 +71,9 @@ def fuel_efficiency(df):
 
     # calculating distance
     df['Distance_km'] = df['Odo_End_km'] - df['Odo_Start_km']
-
+    
     # calculating fuel used
-    df['Fuel_Used'] = 1 - df['Fuel_Fraction']
+    df['Fuel_Used'] = (1 - df['Fuel_Fraction'])*100
     df['Fuel_Used'] = df['Fuel_Used'].replace(0,0.01)
 
     # calculating fuel efficiency
@@ -86,9 +86,9 @@ def fuel_efficiency(df):
 def damage_incidence_rate(df):
 
     # calculating damage rate
-    df['Damage_Rate'] = (df['Damage_Flag'].sum()/len(df))*100
+    damage_rate = (df['Damage_Flag'].sum()/len(df))*100
 
-    return df
+    return round(damage_rate,2)
 
 
 #8 cohort retention
@@ -118,16 +118,16 @@ def nps_rollups(df):
 
     # classifying feedback
     df['NPS_Category'] = df['Customer_Feedback'].apply(
-        lambda x: 'Promoter' if 'good' in x else ('Passive' if 'avg' in x else 'Detractor')
+        lambda x: 'Promoter' if 'good' in x else ('Passive' if 'smooth' in x else 'Detractor')
     )
 
     # calculating nps score
     total = len(df)
     promoters = (df['NPS_Category']=='Promoter').sum()
     detractors = (df['NPS_Category']=='Detractor').sum()
-    df['NPS_Score'] = ((promoters-detractors)/total)*100
+    NPS_Score = ((promoters-detractors)/total)*100
 
-    return df
+    return round(NPS_Score,2)
 
 
 #9 fraud risk
