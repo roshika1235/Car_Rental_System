@@ -71,7 +71,7 @@ This case study simulates a real-world data pipeline for a car rental business. 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Car_Rental_System.git
+git clone https://github.com/roshika1235/Car_Rental_System.git
 cd Car_Rental_System
 ```
 
