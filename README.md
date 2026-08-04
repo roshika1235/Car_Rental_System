@@ -134,7 +134,6 @@ pytest testing/ -v
 
 ---
 
-## 👤 Author
 
 ## 👥 Authors
 
