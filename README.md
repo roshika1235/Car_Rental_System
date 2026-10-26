@@ -12,6 +12,19 @@ Car_Rental_System/
 │   ├── cleaner.py               # Data cleaning logic and functions
 │   └── __init__.py
 │
+├── Dataset/                    # Raw input datasets
+│   ├── Customer_Feedback.csv
+│   ├── Maintenance_Log.csv
+│   ├── Payments.csv
+│   ├── Reservations.csv
+│   └── Telematics.csv
+│
+├── notebook/
+│   ├── car_rental_transformed.csv
+│   ├── data_cleaning_sample.ipynb
+│   ├── Data_Cleaning.ipynb
+│   ├── rawdata_merging.ipynb
+│   └── transformations.ipynb
 ├── Transformations/
 │   ├── transformations.py       # Data transformation pipelines
 │   └── __init__.py
@@ -19,17 +32,6 @@ Car_Rental_System/
 ├── testing/
 │   ├── test_cleaning.py         # Unit tests for cleaning module
 │   └── test_transformation.py  # Unit tests for transformation module
-│
-├── datasets/                    # Raw input datasets
-│   ├── Reservations.csv
-│   ├── Payments.csv
-│   ├── Telematics.csv
-│   ├── Maintenance_Log.csv
-│   ├── Customer_Feedback.csv
-│   └── feedback.csv
-│
-├── notebook/
-│   └── Data_Merging.ipynb       # Data merging and integration notebook
 │
 ├── Data_Cleaning.ipynb          # Notebook: cleaning walkthrough
 ├── Data_Transformation.ipynb    # Notebook: transformation walkthrough
